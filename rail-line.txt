@@ -1,3 +1,6 @@
      aara      dindayal
 o----o-----o------o-------->
-patna     buxar
+patna     buxar    \
+                    \
+                     o------->
+		     Lucknow
