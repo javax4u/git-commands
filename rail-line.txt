@@ -1,6 +1,6 @@
      aara      dindayal                        Delhi
 o----o-----o------o------------------o----------o----->
-patna     buxar    \                kanpur
-                    \       Lucknow
-                     o-------o--------o---->
+patna     buxar    \                kanpur     /
+                    \       Lucknow           /
+                     o-------o--------o------o
 		     Varanasi       Jaunpur
