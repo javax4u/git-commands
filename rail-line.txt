@@ -1,6 +1,6 @@
      aara      dindayal
 o----o-----o------o-------->
 patna     buxar    \
-                    \       Varanasi
-                     o-------o-------->
-		     Lucknow
+                    \       Lucknow
+                     o-------o--------o---->
+		     Varanasi       Jaunpur
