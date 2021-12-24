@@ -1,0 +1,8 @@
+error code 
+
+1.Note - agar humlog 1 file create kar k test karenge to pull request k button nahi show hoga remote pai (git.com) pai 
+
+o coampire karene k lea always 2 file create kare taki remote pai compare k lea do file ho nahi to pull request button shown nahi hoga remote pai 
+
+Error - There isn’t anything to compare.
+main and master are entirely different commit histories
